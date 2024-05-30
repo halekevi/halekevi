@@ -1,7 +1,8 @@
 #Kevin Hale
 
 ### Hi there 👋, my name is Kevin
-#### Digital Artisan
+**`Digital Artisan`**
+
 ![Design & Development](https://media.istockphoto.com/photos/programming-code-abstract-technology-background-of-software-developer-picture-id1224500457?k=20&m=1224500457&s=612x612&w=0&h=LpjdY6okVWiKh8LT_LqcXz53kWaXVf47ThXKwMcCoHI=)
 
 I'm a self-taught developer with an insatiable appetite for learning new software engineering and cloud technologies. Right now, I'm knee-deep in Full-Stack Web development, cloud, and mobile projects—because why limit myself to just one realm of tech awesomeness?
