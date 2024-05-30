@@ -1,8 +1,14 @@
+#Kevin Hale
+
 ### Hi there 👋, my name is Kevin
-#### Design & Development
+#### Digital Artisan
 ![Design & Development](https://media.istockphoto.com/photos/programming-code-abstract-technology-background-of-software-developer-picture-id1224500457?k=20&m=1224500457&s=612x612&w=0&h=LpjdY6okVWiKh8LT_LqcXz53kWaXVf47ThXKwMcCoHI=)
 
-I'm Kevin from the United Stated, and I focus on Full-Stack Web development projects. I enjoy learning new languages and frameworks. I also enjoy wireframing, UI, UX, and design in general. you can check me out at my Twitter:https://twitter.com/KevWritesCodes
+I'm a self-taught developer with an insatiable appetite for learning new software engineering and cloud technologies. Right now, I'm knee-deep in Full-Stack Web development, cloud, and mobile projects—because why limit myself to just one realm of tech awesomeness?
+
+I thrive on picking up new languages and frameworks like they're limited-edition collectibles. And when I'm not coding, you'll find me wireframing, perfecting UI/UX, or generally geeking out over design principles.
+
+Want to see what I'm up to or just need some witty tech banter? Check me out on Twitter: @KevWritesCodes.
 
 Skills:  JS / REACT / JS / HTML / CSS
 
